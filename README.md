@@ -52,4 +52,4 @@ This project is a real-time color recognition system developed using Python and 
 
 ## Author
 
-Developed as part of an OpenCV Color Recognition project using Python.
+**Atheer Alharbi**
